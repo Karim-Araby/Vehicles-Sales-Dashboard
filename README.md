@@ -1,4 +1,4 @@
-# Vehicles-Sales-Dashboard<img width="1321" height="745" alt="Vehicles Dashboard" src="https://github.com/user-attachments/assets/14ae9424-edbd-4ae6-8b59-5ebd862d8958" />
+<img width="1321" height="745" alt="Vehicles Dashboard" src="https://github.com/user-attachments/assets/14ae9424-edbd-4ae6-8b59-5ebd862d8958" />
 hboard
 Project Overview
 An interactive Vehicles Sales Dashboard built to analyze sales performance across products, countries, regions, and years. The dashboard highlights key metrics such as total sales, best-selling product categories, and regional distribution, helping users quickly identify trends and business insights.

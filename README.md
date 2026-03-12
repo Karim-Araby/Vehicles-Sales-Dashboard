@@ -1,5 +1,4 @@
 <img width="1321" height="745" alt="Vehicles Dashboard" src="https://github.com/user-attachments/assets/14ae9424-edbd-4ae6-8b59-5ebd862d8958" />
-hboard
 
 Project Overview
 
